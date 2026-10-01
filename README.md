@@ -13,6 +13,5 @@
 - Streamer Mode: เมนูหลัก → Streamer Mode → แท็บ "ไลฟ์" ใส่ชื่อช่อง TikTok แล้วกด "เชื่อม"
 
 ## หมายเหตุ
-- แฟนเกมไม่แสวงผลกำไร — JoJo's Bizarre Adventure © Hirohiko Araki / Shueisha • ห้ามขายหรือใส่โฆษณา
 - ตัวเชื่อม TikTok LIVE เป็นแบบไม่เป็นทางการ อาจใช้ไม่ได้ชั่วคราวเมื่อ TikTok อัปเดต
 - License ของไลบรารีที่ใช้: ไฟล์ `THIRD_PARTY_LICENSES.txt` ในหน้า Releases
