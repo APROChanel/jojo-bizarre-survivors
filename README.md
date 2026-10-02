@@ -1,6 +1,6 @@
 # JoJo's Bizarre Survivors (แฟนเกม)
 
-เกม 2D Pixel Art แนว Survivor / Bullet Heaven จักรวาล JoJo + **Streamer Mode** (เชื่อม TikTok LIVE — ของขวัญ/ใจ/ติดตาม เสกมอน เสกบอส ช่วยหรือป่วนสตรีมเมอร์)
+เกม 2D Pixel Art แนว Survivor / Bullet Heaven จักรวาล JoJo + **Streamer Mode** (เชื่อม TikTok LIVE — ของขวัญ/ใจ/ติดตาม เสกมอน เสกบอส ช่วยหรือป่วนสตรีมเมอร์) (อนาคตจะเสียตังตอนนี้ปล่อยฟรี)
 
 ## ⬇ ดาวน์โหลด
 **[โหลด JoJo_Bizarre_Survivors.exe (เวอร์ชันล่าสุด)](https://github.com/APROChanel/jojo-bizarre-survivors/releases/latest)** — Windows 10/11
